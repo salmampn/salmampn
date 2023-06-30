@@ -2,7 +2,7 @@
 <ul>
   <li>🔭 I’m currently Studying on Universitas Multimedia Nusantara </li>
   <li>🌱 I’m currently learning React JS, PHP, CI 4</li>
-  <li>📫 How to reach me salmamanda03@gmail.com</li>
+  <li>📫 How to reach me <a href="mailto: salmamanda03@gmail.com" target="_blank">salmamanda03@gmail.com</li>
 </ul>
 
 <!---
