@@ -1,7 +1,6 @@
 <h1>👋 Hi, I’m Salma Manda </h1>
 <ul>
   <li>🔭 I’m currently Studying on <strong>Universitas Multimedia Nusantara</strong></li>
-  <li>🌱 I’m currently learning <strong>React JS, PHP, CI 4</strong></li>
   <li>📫 How to reach me <a href="mailto: salmamanda03@gmail.com" target="_blank">salmamanda03@gmail.com</li>
 </ul>
 
